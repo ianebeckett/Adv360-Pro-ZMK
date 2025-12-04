@@ -2,12 +2,16 @@ mod layer:
 left:
 1-11 : f1-f11
 !@()|
-#${}`
+#${}`\
 %^[]~
+&*<>
 
 kp layer:
 right:
   up789
 down456
-   &123
-     .0
+    123
+    0,.
+
+remove bootloader mode from (1)
+move numlock to (4)
